@@ -24,7 +24,7 @@ setup(
       'cryptography>=1.4',
       'PyJWT>=1.4.2',
       'pycrypto',
-      'requests==2.4.3'
+      'requests==2.20.0'
     ],
     entry_points = {
         "console_scripts": [
