@@ -3,7 +3,7 @@ django-grappelli==2.6.1
 PyJWT==0.2.3
 cryptography==0.6.1
 pytz==2014.7
-gunicorn==19.1.1
+gunicorn==19.5.0
 psycopg2==2.5.4
 requests==2.4.3
 python-memcached==1.53
